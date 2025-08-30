@@ -1,13 +1,14 @@
 
 # HILL CIPHER
-# EX. NO: 3 AIM:
+# EX. NO: 3
  
 ```
 NAME: SANKAR
 DEPT: B.E/CSE
 REG NO: 212224040291
 ```
-
+# AIM:
+ 
 IMPLEMENTATION OF HILL CIPHER
  
 ## To write a C program to implement the hill cipher substitution techniques.
